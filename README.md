@@ -27,8 +27,6 @@ em /config/database.php :
         ],
 
 
-Arquivo Fontes Zipado 
-forseti-code-challenge.rar
 usuario de sistema : usuario@forseti.com.br  senha: 12345
 usuario de sistema : solucoes@forseti.com.br senha: 67890
 
