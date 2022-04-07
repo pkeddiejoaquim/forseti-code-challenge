@@ -30,8 +30,5 @@ em /config/database.php :
 usuario de sistema : usuario@forseti.com.br  senha: 12345
 usuario de sistema : solucoes@forseti.com.br senha: 67890
 
-o sistema apresenta formatação na apresentação de boas praticas na area de desenvolvimento e
-programação, tendo assim a perspectiva de nortemanto no bom desenvolvimento, devendo assim 
-para o seu funcionamento, ser mantida todas os requerimentos tenicos das ferrmentas usandas 
-para o desenvolvimento.
+o sistema apresenta formatação na apresentação de boas praticas na area de desenvolvimento e programação, tendo assim a perspectiva de nortemanto no bom desenvolvimento, devendo assim para o seu funcionamento, ser mantida todas os requerimentos tenicos das ferrmentas usadas para o desenvolvimento.
 
