@@ -1,0 +1,150 @@
+/**Centro Advogados*****Pericia e Contencioso **/
+fonte.cor1 {
+    color: #0000ff;
+    font-size: 20px;
+    font-family: Arial, Tahoma, Sans-serif;
+    font-weight: normal;
+}
+
+a fonte.cor1:hover {
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: expanded;
+    text-decoration: none;
+}
+
+fonte.cor2 {
+    color: #E36969;
+    font-size: 25px;
+    font-family: Arial, Tahoma, Sans-serif;
+    font-weight: normal;
+}
+
+fonte.cor3 {
+    color: #E36969;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+fonte.cor4 {
+    text-decoration: none;
+    color: #67b168;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+a fonte.cor4:hover {
+    font-size: 20px;
+    font-weight: 700;
+    font-stretch: expanded;
+}
+
+fonte.cor5 {
+    color: #006400;
+    font-weight: 900;
+    font-size: 22px;
+}
+
+fonte.sub-titulo {
+    color: #006400;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.tex {
+    position: relative;
+    color: #c0c;
+    font-size: 12px;
+    padding-top: 10px;
+    display: flex;
+    text-align: center;
+}
+
+tex1 {
+    position: relative;
+    color: rgb(143, 137, 143);
+    font-size: 12px;
+    text-align: center;
+}
+
+.justificar {
+    text-align: justify;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 100px) {
+    img.image1 {
+        position: absolute;
+        top: 85px;
+        margin-left: 20px;
+        padding: 0px;
+    }
+
+    .image1 {
+        position: relative;
+        top: 20px;
+        width: 150px;
+    }
+
+    .image2 {
+        position: absolute;
+        margin-left: 68%;
+        top: 70px;
+    }
+
+    .pericia1 {
+        position: relative;
+        top: -10px;
+        width: 80%;
+        margin-left: 160px;
+        padding: 20px;
+    }
+
+    .pericia2 {
+        position: relative;
+        top: -10px;
+        width: 96%;
+        float: none;
+        margin-left: 10px;
+        padding: 10px;
+    }
+
+    .pericia3 {
+        position: relative;
+        top: -10px;
+        width: 96%;
+        float: none;
+        margin-left: 10px;
+        padding: 10px;
+    }
+
+    .contenc1 {
+        position: relative;
+        top: -170px;
+        width: 80%;
+        margin-left: 150px;
+        padding: 20px;
+    }
+
+    .contenc2 {
+        position: relative;
+        top: -170px;
+        width: 96%;
+        float: none;
+        margin-left: 10px;
+        padding: 10px;
+    }
+
+    .contenc3 {
+        position: relative;
+        top: -50px;
+        width: 96%;
+        float: none;
+        margin-left: 10px;
+        padding: 10px;
+    }
+
+    /******************************************************/

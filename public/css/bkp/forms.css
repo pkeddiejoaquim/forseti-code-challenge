@@ -1,0 +1,340 @@
+/**Centro Advogados*****Pericia e Contencioso **/
+
+    fonte.cor1 {
+	color               :#0000ff;                           
+        font-size           : 18px;
+        font-family         : Arial, Tahoma, Sans-serif;
+        font-weight         : normal;
+    } a fonte.cor1:hover {
+	font-size           : 17.8px;
+	font-weight	    : 700;
+	font-stretch        : condensed;
+    } fonte.cor2 {
+        color               : #E36969;                           
+        font-size           : 25px;
+        font-family         : Arial, Tahoma, Sans-serif;
+        font-weight         : normal;
+    } fonte.cor3 {
+        color               : #E36969;                           
+        font-weight         : normal;
+        font-size           : 18px;
+    } fonte.cor4 {
+	text-decoration	    :none;
+        color               : #67b168;                          
+        font-weight         : normal;
+        font-size           : 16px;
+    } a fonte.cor4:hover {
+	font-size           : 15.8px;
+	font-weight	    : 700;
+	font-stretch        : expanded;
+    } fonte.cor5 {
+        color               : #006400;                           
+        font-weight         : 900;
+        font-size           : 19px;
+    }.tex {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        padding-top         : 180px;
+        display             : flex;
+        text-align          : center;
+        margin-left	    : 5px;
+    }
+    
+@media screen and (min-width: 350px) {
+    img.image1 {
+        position            : absolute; 
+        top                 : 195px; 
+        float               : right;   
+    }
+    .pericia1 { 
+	position            :relative;
+	top		    : 10px; 
+	width		    : 45%;	
+	float		    : none;
+	margin-left	    : 180px;
+        padding-right       : 15px;
+    }.pericia2  { 
+        position            :relative;
+        top		    : 215px;
+        width      	    : 100%;
+	float		    : none;
+	margin-left	    : 5px;
+        padding             : 5px;
+        padding-right       : 15px;
+    }.image1	{
+	position            : relative;
+	top                 : 10px;
+    }.contenc   {
+        padding-top         : 500px;    
+    }.contencioso1 { 
+        position            :relative;
+        top		    : -365px; 
+	width		    : 60%;	
+	float		    : none;
+	margin-left	    : 150px;
+	padding             : 10px;
+	border              :0px solid;
+    }.contencioso2 { 
+        position            :relative;
+        top		    : -370px;
+       	width		    : 89%;	
+	float		    : none;
+	margin-left	    : 25px;
+	border              :0px solid;
+
+    }.image1 {
+	position            : relative;
+	top                 : 20px;	
+    }	
+}
+
+@media screen and (min-width: 480px) {
+    img.image1 {
+        position            : absolute; 
+        top                 : 195px; 
+        float               : right;  
+        width               : 170px; 
+        margin              : 0 0 1em 1em;
+    }
+    section.container.impapp {
+        padding-top         : 30px;  
+    }
+    .pericia1 { 
+        position            : absolute;
+        top		    : 180px; 
+	width		    : 65%;	
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+        padding-right       : 35px;
+    }.pericia2  { 
+        position            : relative;
+        top		    : 80px;
+        width      	    : 100%;
+	float		    : none;
+	margin-left	    : 5px;
+        padding             : 5px;
+        padding-right       : 15px;
+    }.pericia3  { 
+	position            : relative;
+        top		    : 0px;
+        width      	    : 98%;
+	float		    : none;
+	margin-left	    : 0px;  
+        padding             : 5px;
+    }.contenc   {
+        padding-top         : 90px;
+    }.contencioso1 { 
+        position            :relative;
+        top		    : -430px; 
+	width		    : 75%;	
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+        padding-right       : 65px;
+    }.contencioso2 { 
+        position            :relative;
+        top		    : -340px;
+        width		    : 75%;	
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+    }
+    tex2 {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        top                 : -390px;
+        display             : flex;
+        align-items         : center; 
+    }
+}
+
+@media screen and (min-width: 536px) {
+
+    .pericia2  { 
+        top		    : 40px;
+ 
+    }.contenc   {
+        padding-top         : 120px;
+    }
+    tex2 {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        top                 : -390px;
+        display             : flex;
+        align-items         : center; 
+    }
+}
+
+@media screen and (min-width: 545px) {
+    .pericia1 { 
+        padding-right       : 25px;
+    
+    }.pericia2  { 
+        top		    : 15px;
+ 
+    }.contenc   {
+        padding-top         : 90px;
+    }
+    tex2 {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        top                 : -350px;
+        display             : flex;
+        align-items         : center; 
+    }
+}
+
+@media screen and (min-width: 768px) {
+   img.image1 {
+        position            : absolute; 
+        top                 : 195px; 
+        float               : right;  
+        width               : 170px; 
+        margin              : 0 0 1em 1em;
+    }
+    section.container.impapp {
+        padding-top         : 30px;  
+    }
+    .pericia1 { 
+        position            : absolute;
+        top		    : 180px; 
+	width		    : 65%;	
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+        padding-right       : 15px;
+        
+    }.pericia2  { 
+        position            : relative;
+        top		    : -40px;
+        width      	    : 80%;
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+        padding-right       : 35px;
+    }.contenc   {
+        padding-top         : 50px;
+    }.contencioso1 { 
+        position            :relative;
+        top		    : -400px; 
+	width		    : 80%;	
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+    }.contencioso2 { 
+        position            :relative;
+        top		    : -340px;
+        width		    : 80%;	
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+    }
+    tex2 {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        top                 : -300px;
+        display             : flex;
+        align-items         : center; 
+    }    
+}
+
+@media screen and (min-width: 860px) {
+    .contenc    {
+        padding-top         : 30px;
+    }.pericia1  { 
+        width		    : 70%; 
+        padding-right       : 15px;
+    }.pericia2  { 
+        top		    : -60px;    
+    }.contencioso1 { 
+        position            : relative;
+        top		    : -400px; 
+	margin-left	    : 205px;
+        padding             : 5px;
+    }
+    tex2 {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        top                 : -300px;
+        display             : flex;
+        align-items         : center; 
+    }
+}
+
+@media screen and (min-width: 990px) {
+    .contenc     {
+        padding-top         : 30px;
+    }.contencioso1 { 
+        position            : relative;
+        top		    : -400px; 
+	margin-left	    : 205px;
+        padding             : 5px;
+    }
+    tex2 {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        top                 : -230px;
+        display             : flex;
+        align-items         : center; 
+    }    
+}
+
+@media screen and (min-width: 1250px) {
+    .pericia1 { 
+        position            : absolute;
+        top		    : 180px; 
+	width		    : 65%;	
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+        padding-right       : 15px;
+        min-height          : 70px;
+    }.pericia2  { 
+        position            : relative;
+        top		    : -100px;
+        width      	    : 80%;
+	float		    : none;
+	margin-left	    : 205px;
+        padding             : 5px;
+        padding-right       : 15px;
+    }.contenc   {
+        padding-top         : 30px;
+    }.contencioso1 { 
+        position            : relative;
+        top		    : -400px; 
+	margin-left	    : 205px;
+        padding             : 5px;
+        min-height          : 50px;
+    }.contencioso2 { 
+        position            : relative;
+        margin-left	    : 205px;
+        padding             : 5px;
+    }
+    tex2 {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        top                 : -230px;
+        display             : flex;
+        align-items         : center; 
+    }.tex {
+	position 	    : relative;
+	color               : #c0c;                           
+        font-size           : 10px;
+        padding-top         : 180px;
+        display             : flex;
+        text-align          : center;
+        margin-left	    : 5px;
+    }
+
+}
+
+/******************************************************/

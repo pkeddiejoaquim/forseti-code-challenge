@@ -1,0 +1,69 @@
+html,
+body {
+    background-image: linear-gradient(to top, white, #d3d612);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links>a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.azuis {
+    color: #0a0463;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+}
+
+
+/** Fontes e tamanhos **/
+fonte12 {
+    color: #0000ff;
+    font-size: 12px;
+    font-family: Arial, Tahoma, Sans-serif;
+    font-weight: normal;
+}
+
+/******************************************************/
